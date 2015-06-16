@@ -1,5 +1,10 @@
 package mn.sis.springweb;
 
+/**
+ * Comment add
+ * @author Ganzorig.Kh
+ *
+ */
 public class Customer 
 {
 	private int custId;
